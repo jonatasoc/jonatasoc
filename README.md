@@ -6,7 +6,7 @@
 <br>
 
 <p align='center'>
-<a href="https://twitter.com/jonys_coelho"><img height="30" src="https://github.com/jonatasoc/jonatasoc/blob/master/icons/twitter.jpg"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/jonys_coelho"><img height="30" src="https://github.com/jonatasoc/jonatasoc/blob/master/icons/twitter.png"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/jonatas-de-oliveira-coelho-1134b722"><img height="30" src="https://github.com/jonatasoc/jonatasoc/blob/master/icons/linkedin.png"></a>
 <a href="https://www.freecodecamp.org/jonatasoc"><img height="30" src="https://github.com/jonatasoc/jonatasoc/blob/master/icons/freecodecamp.png"></a>
 </p>
