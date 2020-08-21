@@ -3,9 +3,13 @@
 💻 <b>Full-stack Javascript developer</b>
 <br>
 📌 Based in Brasília, Brazil 
-
 <br>
 
+<p align='center'>
+<a href="https://twitter.com/jonys_coelho"><img height="30" src="https://github.com/jonatasoc/jonatasoc/blob/main/icons/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/jonatas-de-oliveira-coelho-1134b722"><img height="30" src="https://github.com/jonatasoc/jonatasoc/blob/main/icons/linkedin.png?raw=true"></a>
+<a href="https://www.freecodecamp.org/jonatasoc"><img height="30" src="https://github.com/jonatasoc/jonatasoc/blob/main/icons/freecodecamp.png?raw=true"></a>
+</p>
 
 **Languages and Tools**
 
