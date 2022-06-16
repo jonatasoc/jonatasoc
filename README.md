@@ -1,6 +1,6 @@
 ### Hi, all. I'm Jonatas 😄 
 
-💻 <b>Full-stack Javascript developer</b>
+💻 <b>Senior Frontend Developer</b>
 <br>
 📌 Based in Brasília, Brazil 
 <br>
