@@ -5,6 +5,8 @@
 📌 Based in Brasília, Brazil 
 <br>
 
+Company personal Github: https://github.com/jcoelho-rbi
+
 <p align='center'>
 <a href="https://twitter.com/jonys_coelho" target="_blank"><img height="30" src="https://github.com/jonatasoc/jonatasoc/blob/master/icons/twitter.png"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/jonatas-de-oliveira-coelho-1134b722" target="_blank"><img height="30" src="https://github.com/jonatasoc/jonatasoc/blob/master/icons/linkedin.png"></a>&nbsp;&nbsp;
