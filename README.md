@@ -1,4 +1,4 @@
-### Hi, all. I'm Jonatas 😄 
+### Hi, everyone. I'm Jonatas 😄 
 
 💻 <b>Senior Frontend Developer</b>
 <br>
